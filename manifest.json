@@ -1,0 +1,22 @@
+{
+  "name": "Dayi-Ross-Nails",
+  "short_name": "Dayi-Ross-Na",
+  "description": "Uñas y belleza - Tu espacio de cuidado personal",
+  "start_url": "/dayirossnails/",
+  "scope": "/dayirossnails/",
+  "display": "standalone",
+  "background_color": "#ec4899",
+  "theme_color": "#ec4899",
+  "icons": [
+    {
+      "src": "/dayirossnails/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/dayirossnails/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
